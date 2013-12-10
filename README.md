@@ -4,8 +4,6 @@ Yuanyan Cao
 * <yuanyan.cao@gmail.com>
 * http://madscript.com
 
- Not looking for a job.
-
 Experience
 ----------
 *   Front-End Engineer at Tencent Inc. July 2011 - Present
