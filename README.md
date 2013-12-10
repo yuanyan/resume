@@ -48,7 +48,9 @@ Experience
 
     -   Create **[Mars](https://github.com/AlloyTeam/Mars)**, Mobile web developing posts
 
-    -   Contribute to [node-spdy](https://github.com/indutny/node-spdy), [boomerang](https://github.com/bluesmoon/boomerang), etc.
+    -   Contribute to 
+    [node-spdy](https://github.com/indutny/node-spdy), 
+    [csso](https://github.com/css/csso), etc.
 
 Education
 ---------
